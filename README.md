@@ -1,4 +1,4 @@
-# 🤖 SmartAssist: AI-Powered Website Support Chatbot
+# 🤖 
 
 An AI chatbot that answers user queries by retrieving relevant info from website content using LangChain, HuggingFace, and Pinecone.
 
